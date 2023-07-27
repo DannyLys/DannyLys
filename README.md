@@ -1,3 +1,4 @@
+<div align="center">
 <!-- Welcome to My GitHub Portfolio! -->
 
 <!-- Portfolio Description -->
@@ -6,13 +7,13 @@
 Hello, fellow developers! Welcome to my GitHub portfolio, where I showcase my coding projects and skills. I am a passionate Junior Front-End Developer and Junior Wordpress Developer, constantly learning and improving my skills in the realm of programming. Join me on this journey, and explore the creations I've crafted with HTML, CSS, JavaScript, Sass, PHP, Bootstrap.
 
 ## 🌟 Portfolio Highlights
-
-1. **Project Showcase:** Discover a collection of diverse projects in the "projects" folder.
-2. **Language Proficiency:** Highlighting the coding languages and tools that power my creations.
-3. **Problem Solving:** Solving coding challenges and refining my skills.
-4. **Collaboration:** Collaborating with other developers to build awesome software.
-5. **Continuous Learning:** Always striving to expand my knowledge and stay up-to-date.
-
+<ul>
+  <ol>1. <strong>Project Showcase:</strong> Discover a collection of diverse projects in the "projects" folder.</ol>
+  <ol>2. <strong>Language Proficiency:</strong> Highlighting the coding languages and tools that power my creations.</ol>
+  <ol>3. <strong>Problem Solving:</strong> Solving coding challenges and refining my skills.</ol>
+  <ol>4. <strong>Collaboration:</strong> Collaborating with other developers to build awesome software.</ol>
+  <ol>5. <strong>Continuous Learning:</strong> Always striving to expand my knowledge and stay up-to-date.</ol>
+</ul>
 <!-- 🧬 Language Badges -->
 
 ## 🧬 Language Badges
@@ -30,7 +31,7 @@ Explore the coding languages and technologies I'm using:
 ![Express](https://img.shields.io/badge/Express-white?style=for-the-badge&logo=express&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DannyLys&layout=donut&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DannyLys&layout=donut&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
 I'm constantly learning and developing my skills in these languages and technologies.
 
@@ -47,5 +48,4 @@ Let's build something amazing together! 🚀🌟
 ## 🌌 Thank You for Visiting!
 
 Thank you for exploring my GitHub portfolio. I hope you've enjoyed your journey through my projects and coding adventures. Stay curious and keep coding! 💻🚀
-
-
+</div>
